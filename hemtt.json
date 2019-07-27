@@ -1,0 +1,9 @@
+{
+  "name": "14th AAG Zeus Modules",
+  "prefix": "aagz",
+  "author": "Eclipser",
+  "files": [
+    "mod.cpp"
+  ],
+  "sigversion": 3
+}

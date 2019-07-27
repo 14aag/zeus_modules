@@ -1,0 +1,1 @@
+#include "\z\aagz\addons\assign_nvg\script_component.hpp"
