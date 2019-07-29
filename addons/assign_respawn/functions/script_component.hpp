@@ -1,0 +1,1 @@
+#include "\z\aagz\addons\assign_respawn\script_component.hpp"

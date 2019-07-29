@@ -2,7 +2,7 @@
 class CfgPatches {
     class ADDON {
         name = COMPONENT;
-        units[] = {"aagz_assign_nvg_module"};
+        units[] = {"aagz_assign_respawn_module"};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"aagz_common"};
@@ -14,8 +14,8 @@ class CfgPatches {
 class CfgVehicles {
     class EGVAR(common, base);
     class GVAR(module) : EGVAR(common, base) {
-        displayName = "Assign NVGs";
-        function = QFUNC(assignNvg);
+        displayName = "Assign Respawn";
+        function = QFUNC(assignRespawn);
     };
 };
 

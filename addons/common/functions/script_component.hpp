@@ -1,0 +1,1 @@
+#include "\z\aagz\addons\common\script_component.hpp"
